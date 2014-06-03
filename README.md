@@ -31,6 +31,9 @@ The Print Plus Widget enhances and extends the AWAB Print Widget. [demo](http://
 ## Customize:
 * Edit the PrintPlus\config.json file to customize the widget.
 
+## TO DO:
+* This widget has not been setup for easy configuration in AWAB yet.  The config.json file has to be edited manually.
+
 ## Change log:
 * 6/3/2014
 	1. Initial Commit.
