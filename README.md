@@ -1,6 +1,6 @@
 # Print Plus Widget for ArcGIS WebApp Builder (AWAB)
 
-The Print Plus Widget enhances and extends the AWAB Print Widget. [demo](http://gis.hamiltoncounty.in.gov/mapviewer1/index.html)
+The Print Plus Widget enhances and extends the AWAB Print Widget. [demo](http://gis.hamiltoncounty.in.gov/mapviewer/)
 
 ## Installation:
 * Clone or download the repo.
